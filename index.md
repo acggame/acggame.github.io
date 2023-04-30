@@ -1,6 +1,6 @@
 <html>
 <head>  
-	<title>绿次元导航页</title>
+	<title>次元仓库游戏导航页</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
